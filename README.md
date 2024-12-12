@@ -1,4 +1,4 @@
-# Radix-Launcher (PumpFun Bundler)
+# Radix-Launcher (PumpFun Bundler and Sniper)
 
 We provide sophisticated launching tools at competitive prices. All updates to our bundler are free - buy once, benefit forever! 🛠️✨
 
