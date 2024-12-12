@@ -4,6 +4,7 @@ We provide sophisticated launching tools at competitive prices. All updates to o
 
 ## Features:
 
+- Sleek UI ✨
 - Undetectable 🕵️‍♂️
 - No Rat 🐀 and Sniper 🎯 emojis on BullX
 - No Sniper 🎯 Buy and Sell flags on Photon
