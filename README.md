@@ -2,6 +2,8 @@
 
 We provide the best bundler and sniper on the Solana network at competitive prices. All updates to our bundler are free - buy once, benefit forever! 🛠️✨
 
+### Join our [Discord](https://discord.gg/KVkFyXJtHY) community to purchase our application for the lowest price on the market! 
+
 ![image](https://github.com/user-attachments/assets/60cfec22-4d66-46ee-a8ef-665d5b0fbdc8)
 
 
