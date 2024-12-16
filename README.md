@@ -5,51 +5,44 @@ We provide the best bundler and sniper on the Solana network at competitive pric
 ![image](https://github.com/user-attachments/assets/60cfec22-4d66-46ee-a8ef-665d5b0fbdc8)
 
 
-## Features:
-
-- Sleek UI ✨
-- Undetectable 🕵️‍♂️
-- No Rat 🐀 and Sniper 🎯 emojis on BullX
-- No Sniper 🎯 Buy and Sell flags on Photon
-- 🛡️ Anti bubble map detection
+## Features
+- Sleek UI :sparkles:
+- Undetectable :man_detective:
+- No Rat :rat: and Sniper :dart: emojis on BullX
+- No Sniper :dart: Buy and Sell flags on Photon
+- :shield: Anti bubble map detection
 
 ## Launch Modes
+### Normal Mode: :airplane_departure:
+Launch and bundle snipe your own transaction in the same block! You are guaranteed the first 24 buy transactions, all from a separate wallet! :dart::moneybag:
+### Stagger Mode: :chart_with_upwards_trend:
+Launch or Snipe with a custom set delay between all wallets to ensure they bypass every type of bundle detection. :lock:
 
-### Normal Mode: 🛫
-Launch and bundle snipe your own transaction in the same block! You are guaranteed the first 24 buy transactions, all from a separate wallet! 🎯💰
-
-### Stagger Mode: 📈
-Launch or Snipe with a custom set delay between all wallets to ensure they bypass every type of bundle detection. 🔒
-
-## Sell Modes 💸
-
-- **Sell All Wallets**: 🧹  
-  Prevents any frontrunning by selling your entire token supply in all your wallets in a single bundle! 🚀
-
-- **Sell All Percent (%)**: 📊  
+## Sell Modes 
+- **Sell All Wallets**: :broom:  
+  Prevents any frontrunning by selling your entire token supply in all your wallets in a single bundle! :rocket:
+- **Sell All Percent (%)**: :bar_chart:  
   Sell a custom percentage of your tokens from all your wallets at once.
-
-- **Sell Specific Wallet**: 🎯  
+- **Sell Specific Wallet**: :dart:  
+  Sell a custom percentage or all of your tokens from a specific wallet at once.
+- **Sell Dev Wallet**: :tools:  
   Sell a custom percentage or all of your tokens from a specific wallet at once.
 
-- **Sell Dev Wallet**: 🛠️  
-  Sell a custom percentage or all of your tokens from a specific wallet at once.
+All our Sell modes are available on both **pump.fun** :tada: and **Raydium** :ocean:.
 
-All our Sell modes are available on both **pump.fun** 🎉 and **Raydium** 🌊.
+## Wallet Management
 
-## Wallet Management: 🔐
+- Automatically generate 24 wallets instantly. :arrows_counterclockwise: 
+- Export your PK’s easily for secure offline storage. :outbox_tray:
+-  Reclaim any leftover SOL from your wallets instantly, in one transaction. :money_with_wings:
 
-- 🔄 Automatically generate 24 wallets instantly.
-- 📤 Export your PK’s easily for secure offline storage.
-- 💸 Reclaim any leftover SOL from your wallets instantly, in one transaction.
+## Vanity Key Generation
 
-## Vanity Key Generation: ✨
-
-Easily generate a CA for your token ending in “pump”, so it looks like your token was created on their platform. 🔑
+Easily generate a CA for your token ending in “pump”, so it looks like your token was created on their platform. :key:
 
 ## And More!
 
-For more information, please open a ticket in our [Discord](https://discord.gg/7HnYH2uyYZ), and one of our support agents will assist you.
+For more information, please open a ticket in our [Discord](https://discord.gg/KVkFyXJtHY), and one of our support agents will assist you.
 
 
 
