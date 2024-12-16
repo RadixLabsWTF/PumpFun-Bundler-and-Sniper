@@ -15,7 +15,7 @@ We provide the best bundler and sniper on the Solana network at competitive pric
 - :shield: Anti bubble map detection
 
 ## Launch Modes
-### Normal Mode: :airplane_departure:
+### Normal Mode: 🛫
 Launch and bundle snipe your own transaction in the same block! You are guaranteed the first 24 buy transactions, all from a separate wallet! :dart::moneybag:
 ### Stagger Mode: :chart_with_upwards_trend:
 Launch or Snipe with a custom set delay between all wallets to ensure they bypass every type of bundle detection. :lock:
