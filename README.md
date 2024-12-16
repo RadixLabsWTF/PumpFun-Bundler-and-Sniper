@@ -2,7 +2,7 @@
 
 We provide the best bundler and sniper on the Solana network at competitive prices. All updates to our bundler are free - buy once, benefit forever! 🛠️✨
 
-### Join our [Discord](https://discord.gg/KVkFyXJtHY) community to purchase our application for the lowest price on the market! 
+### Join our [Discord](https://discord.gg/radixlabs) community to purchase our application for the lowest price on the market! 
 
 ![image](https://github.com/user-attachments/assets/60cfec22-4d66-46ee-a8ef-665d5b0fbdc8)
 
@@ -44,7 +44,7 @@ Easily generate a CA for your token ending in “pump”, so it looks like your 
 
 ## And More!
 
-For more information, please open a ticket in our [Discord](https://discord.gg/KVkFyXJtHY), and one of our support agents will assist you.
+For more information, please open a ticket in our [Discord](https://discord.gg/radixlabs), and one of our support agents will assist you.
 
 
 
