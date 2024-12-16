@@ -1,4 +1,4 @@
-# Radix-Launcher (PumpFun Bundler and Sniper)
+# Radix-Launcher (PumpFun Bundler and Sniper with UI!)
 
 We provide the best bundler and sniper on the Solana network at competitive prices. All updates to our bundler are free - buy once, benefit forever! 🛠️✨
 
