@@ -4,7 +4,8 @@ We provide the best bundler and sniper on the Solana network at competitive pric
 
 ### Join our [Discord](https://discord.gg/radixlabs) community to purchase our application for the lowest price on the market! 
 
-![image](https://github.com/user-attachments/assets/60cfec22-4d66-46ee-a8ef-665d5b0fbdc8)
+<img width="1728" alt="Stagger Pic" src="https://github.com/user-attachments/assets/aafd3515-ead1-4bce-bc13-189734bffe0f" />
+
 
 
 ## Features
