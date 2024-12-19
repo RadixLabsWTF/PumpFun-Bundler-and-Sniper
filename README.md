@@ -1,8 +1,10 @@
 # Radix-Launcher (PumpFun Bundler and Sniper with UI)
 
+You can view our proof of work demo video here: https://x.com/RadixLabsWTF/status/1869879243435380737
+
 We provide the best bundler and sniper on the Solana network at competitive prices. All updates to our bundler are free - buy once, benefit forever! 🛠️✨
 
-### Join our [Discord](https://discord.gg/radixlabs) community to purchase our application for the lowest price on the market! 
+### Join our [Discord](https://discord.gg/radixlabs) community to purchase the Radix Launcher! 
 
 <img width="1728" alt="Stagger Pic" src="https://github.com/user-attachments/assets/aafd3515-ead1-4bce-bc13-189734bffe0f" />
 
